@@ -1,2 +1,3 @@
 # tushar
-this is m frist github project
+this is m frist github ripositories
+Auther- Tushar
